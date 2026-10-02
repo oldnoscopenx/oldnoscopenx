@@ -1,16 +1,13 @@
-## Hi there 👋
+## oldnoscopenx — nice to meet you 👋
 
-<!--
-**oldnoscopenx/oldnoscopenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and maintain infrastructure-as-code pipelines that keep containerized workloads running cleanly. Most of my time goes into Kubernetes clusters, Terraform modules, and Bash scripts that glue the whole delivery process together. I care more about things being reliable than fancy.
 
-Here are some ideas to get you started:
+- 🔭 Shrinking CI pipelines with GitHub Actions and tuning K8s autoscaling.
+- keeps notes about developer tooling that will never be published
+- reach me at **@oldnoscopenx** on GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=oldnoscopenx&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oldnoscopenx&hide_border=true&theme=radical" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Terraform-fb923c?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/GitHub%20Actions-fb923c?style=for-the-badge&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Docker-fb923c?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Bash-fb923c?style=for-the-badge&logoColor=white" alt="Bash" />
